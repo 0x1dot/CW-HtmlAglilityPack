@@ -1,0 +1,11 @@
+c:\users\0x1dot\documents\visual studio 2015\Projects\HtmlAgilityPack\HtmlAgilityPack\bin\Debug\HtmlAgilityPack.exe.config
+c:\users\0x1dot\documents\visual studio 2015\Projects\HtmlAgilityPack\HtmlAgilityPack\bin\Debug\HtmlAgilityPack.exe
+c:\users\0x1dot\documents\visual studio 2015\Projects\HtmlAgilityPack\HtmlAgilityPack\bin\Debug\HtmlAgilityPack.pdb
+c:\users\0x1dot\documents\visual studio 2015\Projects\HtmlAgilityPack\HtmlAgilityPack\bin\Debug\HtmlAgilityPack.dll
+c:\users\0x1dot\documents\visual studio 2015\Projects\HtmlAgilityPack\HtmlAgilityPack\bin\Debug\HtmlAgilityPack.xml
+c:\users\0x1dot\documents\visual studio 2015\Projects\HtmlAgilityPack\HtmlAgilityPack\obj\Debug\HtmlAgilityPack.csprojResolveAssemblyReference.cache
+c:\users\0x1dot\documents\visual studio 2015\Projects\HtmlAgilityPack\HtmlAgilityPack\obj\Debug\HtmlAgilityPack.Form1.resources
+c:\users\0x1dot\documents\visual studio 2015\Projects\HtmlAgilityPack\HtmlAgilityPack\obj\Debug\HtmlAgilityPack.Properties.Resources.resources
+c:\users\0x1dot\documents\visual studio 2015\Projects\HtmlAgilityPack\HtmlAgilityPack\obj\Debug\HtmlAgilityPack.csproj.GenerateResource.Cache
+c:\users\0x1dot\documents\visual studio 2015\Projects\HtmlAgilityPack\HtmlAgilityPack\obj\Debug\HtmlAgilityPack.exe
+c:\users\0x1dot\documents\visual studio 2015\Projects\HtmlAgilityPack\HtmlAgilityPack\obj\Debug\HtmlAgilityPack.pdb
