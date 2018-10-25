@@ -32,7 +32,7 @@ namespace HtmlAgilityPack
                 foreach (HtmlAgilityPack.HtmlNode item1 in item.SelectNodes("//strong"))
                 {
                     string strongdegerimiz = item1.InnerText;
-                    MessageBox.Show("88.157.55.2");
+                    MessageBox.Show(strongdegerimiz);
                 } 
                string ipadresim = item.InnerText;
                label1.Text = ipadresim;
